@@ -1,0 +1,3 @@
+filename,gold_label,number_characters,text
+../data/raw_data/neg3.txt,neg,23,this is a test example
+

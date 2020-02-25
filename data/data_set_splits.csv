@@ -1,0 +1,3 @@
+train_set,../data/raw_data/neg1.txt
+validation_set,../data/raw_data/neg2.txt
+test_set,../data/raw_data/neg3.txt
