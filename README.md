@@ -9,6 +9,11 @@ This little example set-up is supposed to help you get started with your own pro
 
 This project is supposed to provide an example of how you can set up a larger classification project.
 
+**Think in terms of tasks rather than steps**
+
+Sometimes, it can be tempting to create a script for each of the steps you need to carry out. For instance, a step could be 'extract features from training set' and 'extract featrues from test set'. Both of these steps can be seen as the same task: 'extract featrues'. Try to divide your project into tasks and match them with the steps you want to carry out. 
+
+
 
 ## Data
 The data for this project can be found in the directory data/.
